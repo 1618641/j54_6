@@ -14,7 +14,7 @@
     <title>Title</title>
 </head>
 <body>
-    <h1>show.jsp......大家好</h1>
+    <h1>show.jsp......大家好 ss</h1>
     <table align="center" border="1" width="60%">
         <C:forEach items="${requestScope.list}" var="k" varStatus="st">
             <Tr align="center">
